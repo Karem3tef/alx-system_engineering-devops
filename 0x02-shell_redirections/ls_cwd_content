@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 kali kali 4096 Sep  6 09:14 .
+drwxr-xr-x 6 kali kali 4096 Sep  5 09:36 ..
+-rwxrwxrwx 1 kali kali   33 Sep  5 09:41 0-hello_world
+-rwxrwxrwx 1 kali kali   29 Sep  5 09:45 1-confused_smiley
+-rwxrwxrwx 1 kali kali   28 Sep  5 09:48 2-hellofile
+-rwxrwxrwx 1 kali kali   39 Sep  5 09:52 3-twofiles
+-rwxrwxrwx 1 kali kali   29 Sep  5 09:54 4-lastlines
+-rwxrwxrwx 1 kali kali   29 Sep  5 09:55 5-firstlines
+-rwxrwxrwx 1 kali kali   40 Sep  6 09:09 6-third_line
+-rwxrwxrwx 1 kali kali   73 Sep  5 12:15 7-file
+-rwxrwxrwx 1 kali kali   36 Sep  6 09:14 8-cwd_state
+-rw-r--r-- 1 kali kali   12 Sep  5 12:12 \*\\'Best School'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 kali kali    0 Sep  6 09:14 ls_cwd_content
+-rw-r--r-- 1 kali kali  116 Sep  5 09:37 README.md
